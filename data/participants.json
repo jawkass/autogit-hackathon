@@ -1074,8 +1074,8 @@
     "app_type": "nft-gallery",
     "pr_number": 125,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/125",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x5da1c0cbe2988b9375fd913bb89861f5f611f23d8d9e839ad12429991f551b26",
+    "vault_address": "0x2B8f47669EC477E2e1E47cCeF72be3Abd9837A6B",
+    "paid_at": "2026-05-29T17:26:37.943Z"
   }
 ]
