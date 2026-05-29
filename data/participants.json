@@ -1126,8 +1126,8 @@
     "app_type": "AI Tool",
     "pr_number": 135,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/135",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0xf46e9028f1b4ce793dfe6fe5c0331552d771ada02a3730098534504620956b12",
+    "vault_address": "0xCeb790b2C0DeDB98B0b99224330579ecd4Ee666e",
+    "paid_at": "2026-05-29T17:49:27.218Z"
   }
 ]
