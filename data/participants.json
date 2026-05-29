@@ -1139,8 +1139,8 @@
     "app_type": "zero-th",
     "pr_number": 136,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/136",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0xbc02c8fecc73953836358e17a6c9db3bb62f2d3b5fbee05b58a715e5ebc4ef3d",
+    "vault_address": "0xEB31235c51969DB1ed993Cef78ce2Ce672350186",
+    "paid_at": "2026-05-29T17:49:48.729Z"
   }
 ]
